@@ -1,3 +1,3 @@
 # Count_clicks
 
-<img src="Circuito_count">
+<img src="Circuito_count.jpg">
