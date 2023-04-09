@@ -4,5 +4,6 @@
 Essas programações são, provavelmente, as que eu fez durante a robótica para o aprendizado de arduino 
 
 
+Projetos:
 
-<img src="Circuito_count.jpg" >
+\Contador de clicks
