@@ -1,0 +1,8 @@
+﻿Nome,Quantidade,Componente
+"U3",1," Sensor de temperatura [TMP36]"
+"U4",1," Arduino Uno R3"
+"D4",1,"Vermelho LED"
+"D5",1,"Amarelo LED"
+"D6",1,"Azul LED"
+"R1, R2, R3",3,"300 Ω Resistor"
+"U6",1,"Baseado em MCP23008, 32 LCD 16 x 2 (I2C)"
